@@ -6,7 +6,7 @@ I'm KrispyNoodles, a passionate developer and lifelong learner! Here's a little 
 - 🌱 **I’m currently learning**: Advanced concepts in AI, cloud computing, and full-stack development.
 - 💬 **Ask me about**: Data science, Python, Git workflows, or anything tech-related—I'm happy to help!
 - 📫 **How to reach me**:  
-  - Email: [joeylimjunfeng@example.com](mailto:joeylimjunfeng@example.com)  
+  - Email: [joeylimjunfeng@example.com](mailto:joeylimjunfeng@gmail.com)  
   - LinkedIn: [linkedin.com/in/joeylimjf](www.linkedin.com/in/joeylimjf)
 - ⚡ **Fun fact**: I thought that KrispyNoodles was a funny name since "Krispy" comes from the donut brand Krispy Kreme, and Crispy Noodles is an actual Hong Kong dish!
 ---
