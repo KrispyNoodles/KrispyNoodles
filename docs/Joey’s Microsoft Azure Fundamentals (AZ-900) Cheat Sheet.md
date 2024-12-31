@@ -1,4 +1,4 @@
-**Joey’s Microsoft Azure Fundamentals (AZ-900) Cheat Sheet**
+# **Joey’s Microsoft Azure Fundamentals (AZ-900) Cheat Sheet**
 
 **Benefits of cloud services:**  
 The big three: Azure, AWS and GCP
