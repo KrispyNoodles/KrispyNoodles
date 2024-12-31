@@ -8,14 +8,12 @@ I'm KrispyNoodles, a passionate developer and lifelong learner! Here's a little 
 - 📫 **How to reach me**:  
   - Email: [krispynoodles@example.com](mailto:krispynoodles@example.com)  
   - LinkedIn: [linkedin.com/in/joeylimjf](www.linkedin.com/in/joeylimjf)
-- 😄 **Pronouns**: He/Him
-- ⚡ **Fun fact**: I thought that KrispyNoodles was a funny name since Krispy comes from the donut brand Krispy Kreme and Crispy Noodles is an actul Hong Kong dish!
-
+- ⚡ **Fun fact**: I thought that KrispyNoodles was a funny name since "Krispy" comes from the donut brand Krispy Kreme, and crispy noodles is an actual Hong Kong dish!
 ---
 
 ### 🌟 Featured Projects:
-- 🛠 **[Project 1](https://github.com/KrispyNoodles/Project1)**: A chatbot built using Retrieval-Augmented Generation (RAG) that crawls institutional websites to provide accurate information.
-- 📊 **[Project 2](https://github.com/KrispyNoodles/Project2)**: A data visualization toolkit using Python and Tableau to make complex data digestible.
+- 🛠 **[SIT Chatbot]([https://github.com/KrispyNoodles/Project1](https://github.com/KrispyNoodles/SIT_Chatbot))**: A chatbot built using Retrieval-Augmented Generation (RAG) that provides information relating to SIT.
+- 📊 **[SMRT Map](https://github.com/KrispyNoodles/SMRT_Neo4j)**: A database created based off graph database that represents the train network of Singapore.
 
 ---
 
