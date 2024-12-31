@@ -12,7 +12,7 @@ I'm KrispyNoodles, a passionate developer and lifelong learner! Here's a little 
 ---
 
 ### 🌟 Featured Projects:
-- 🛠 **[SIT Chatbot]([https://github.com/KrispyNoodles/Project1](https://github.com/KrispyNoodles/SIT_Chatbot))**: A chatbot built using Retrieval-Augmented Generation (RAG) that provides information relating to SIT.
+- 🛠 **[SIT Chatbot](https://github.com/KrispyNoodles/SIT_Chatbot)**: A chatbot built using Retrieval-Augmented Generation (RAG) that provides information relating to SIT.
 - 📊 **[SMRT Map](https://github.com/KrispyNoodles/SMRT_Neo4j)**: A database created based off graph database that represents the train network of Singapore.
 
 ---
