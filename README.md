@@ -8,7 +8,7 @@ I'm KrispyNoodles, a passionate developer and lifelong learner! Here's a little 
 - 📫 **How to reach me**:  
   - Email: [joeylimjunfeng@example.com](mailto:joeylimjunfeng@example.com)  
   - LinkedIn: [linkedin.com/in/joeylimjf](www.linkedin.com/in/joeylimjf)
-- ⚡ **Fun fact**: I thought that KrispyNoodles was a funny name since "Krispy" comes from the donut brand Krispy Kreme, and crispy noodles is an actual Hong Kong dish!
+- ⚡ **Fun fact**: I thought that KrispyNoodles was a funny name since "Krispy" comes from the donut brand Krispy Kreme, and Crispy Noodles is an actual Hong Kong dish!
 ---
 
 ### 🌟 Featured Projects:
