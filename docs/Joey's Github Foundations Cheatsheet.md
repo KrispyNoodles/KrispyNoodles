@@ -1,4 +1,4 @@
-# **Joey's Github Foundations Cheatsheet**
+**Joey's Github Foundations Cheatsheet**
 
 **Version Control:** is a group of systems and processes to manage changes to files, programs and directories. It is useful for anything that changes over time or needs to be shared. Version control is able to track files in different states, combine different versions of files, identify a particular version and revert changes.
 
