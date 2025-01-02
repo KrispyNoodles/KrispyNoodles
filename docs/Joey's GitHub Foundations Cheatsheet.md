@@ -4,7 +4,7 @@
 
 **Git:** It is a popular control system for software development and data projects, open source and reliable. The benefits of git include it storing everything, being able to compare files at different times, seeing what changes were made by who and when and even reverting to previous versions of files.
 
-* Using Git: THe git commands are run on the shell also known as the terminal. It is a program for executing commands
+* Using Git: The git commands are run on the shell also known as the terminal. It is a program for executing commands
 
 **Repositories:** A repository is a directory consisting of files and the Git records about the project’s history. The benefits to creating a Git repo, includes the ability to systematically track the versions of files, to revert to previous versions, and to compare versions at different points in time.
 
@@ -294,7 +294,7 @@ GitHub Tools
 * Read: View and discuss  
 * Triage: Manage issues/ PRs  
 * Write: Push code  
-* Maintain: Manage the repo without sensitive actions  
+* Maintain: Manage the repo without sensitive actions, some examples includes deleting the repository, transferring ownership and removing admin privileges
 * Admin: Full control including security management and deletion
 
 **Authentication Models:**
