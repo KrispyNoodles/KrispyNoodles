@@ -409,3 +409,5 @@ Azure Reservations vs Azure Reserved Instances
 * Azure Reserved Instances: A commitment to reserve a subset of Azure virtual machines (VMs) for a set period of time. In exchange, you receive a discount on your VM costs. One or three year term available only.
 
 Azure Reserved Instances is only for VMs while Azure Reservations can be used for other services. Another difference is that Reservations come with priority access to capacity, while Reserved Instances don't unless you buy capacity reservation.
+
+Azure Bastion: It helps to securely log into a VM and completely avoids the public internet. Bastion is a PaaS Solution (Platform as a Service), there is no infrastrcture to set up. This provides full remote desktop access to the VM using TLS or full SSH access without having to install any special agent or software on the VMs. Bastion is different from RDP as there is no public access allowed. When Azure Bastion is used, the connection is through the Azure portal instead of directly to the VM therefore the VM does not need a public ip address which means that there is no public access.
