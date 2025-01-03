@@ -56,7 +56,7 @@ Azure Data Box (conventional): A physical migration service, where the data box 
 **File Operations Tools**  
 AzCopy: Command-line tool that facilitates file manipulation such as upload, download and copying between storage accounts and local sources. Can be used too to work with other cloud providers, being helpful for file movement between clouds.
 
-Azure Storage Explorer: Application with a graphical interface that has the same functionality as AzCopy. It is used to handle files and blobs in Azure storage accounts.
+Azure Storage Explorer: An Application that can be downloaded onto the desktop with a graphical interface that has the same functionality as AzCopy. It is used to handle files and blobs in Azure storage accounts.
 
 Azure File Sync: It is a service that can synchronize files across different computers and Azure cloud. It ensures that the most recent files are accessible from any location. 
 
