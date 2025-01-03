@@ -29,7 +29,8 @@ Infrastructure as a Service (Iaas): Examples include Virtual Machines
 
 Azure Hierarchical Structure  
 ![image](https://github.com/user-attachments/assets/8710a7c6-cb17-4d62-b183-a2063fcd3ce7)
-**Azure Storage Services** (except for disks the rest require a storage account set up to be used)  
+**Azure Storage Services** (except for disks the rest require a storage account set up to be used)
+
 Blobs (Binary Large Objects): Storing large amounts of unstructured data such as video, images, documents. Used for storing files for widespread access, streaming video and audio content, storing backup disaster recovery and archives and lastly direct delivery of images or documents to the web.
 
 Access tiers for blobs
@@ -45,7 +46,7 @@ Queues: Digital message service in the cloud, enables communication between vari
 
 Tables: NoSQL data in storage account. Store and retrieve data flexible and schema-less (flexible data structure). Suitable for fast and scalable access to large amounts of unstructured data, it is also cost effective and simple to manage.
 
-Disks/ Azure Managed Disks: Provide storage space for operating systems, applications and data.Are used in virtual machines functionality.
+Disks/ Azure Managed Disks: Provide storage space for operating systems, applications and data. Are used in virtual machines functionality.
 
 **Data Migration options**  
 Azure Migrate (real-time): A service to move from on-premises to the cloud and offers a variety of tools for assessing and migrating data. Helpful for companies looking to move their data to azure cloud.
@@ -400,4 +401,11 @@ Monitoring:
 
 * Private cloud: Provides greater control for the company and its IT department but comes with greater costs. A private cloud however may be hosted from your on site datacenter or hosted in a dedicated datacenter offsite by a third party.  
 * Public cloud: A built, controlled and maintained by a third-party cloud provider. Anyone that wants to purchase cloud services can access and use resources  
-* Hybrid coud: Uses both public and private cloud in an interconnected environment.
+* Hybrid cloud: Uses both public and private cloud in an interconnected environment.
+
+Azure Reservations vs Azure Reserved Instances
+
+* Azure Reservations: A commitment to use a specific Azure resource at a fixed capacity for a set period of time. In exchange, you receive a discount on your hourly billing. You can apply reservations to Azure Virtual Machines, Azure Databases, Azure Storage, and Azure Backup.   
+* Azure Reserved Instances: A commitment to reserve a subset of Azure virtual machines (VMs) for a set period of time. In exchange, you receive a discount on your VM costs. One or three year term available only.
+
+Azure Reserved Instances is only for VMs while Azure Reservations can be used for other services. Another difference is that Reservations come with priority access to capacity, while Reserved Instances don't unless you buy capacity reservation.
