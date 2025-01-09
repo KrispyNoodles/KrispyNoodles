@@ -299,15 +299,19 @@ Monitoring:
   * Can be used to build, develop and monitor cloud developments and web apps  
   * Creating custom dashboards to organize and view resources  
   * Configure accessibility options  
-  * Used by everyone  
-* PowerShell: Execute scripts and functions for (automatic) management of Azure resources  
-  * Commands can be used one-off or in a script for automation  
-  * Uses PowerShell syntax  
-  * Used by IT Team  
-* Azure Command Line Interface (CLI): Execute scripts and functions for (automatic) management of Azure resources  
-  * Equivalent function to the powershell tool  
-  * Uses bash syntax to input commands  
-  * Used by IT Team  
+  * Used by everyone
+
+ * Azure's PowerShell and CLI manages the cloud’s resources and configurations. This can be useful for deploying, migrating and installation of different OS. 
+   * PowerShell: Execute scripts and functions for (automatic) management of Azure resources  
+     * Commands can be used one-off or in a script for automation  
+     * Uses PowerShell syntax  
+     * Used by IT Team
+     * Documentation of using [Azure PowerShell](https://learn.microsoft.com/en-us/powershell/azure/?view=azps-13.0.0)
+   * Azure Command Line Interface (CLI): Execute scripts and functions for (automatic) management of Azure resources  
+     * Equivalent function to the powershell tool  
+     * Uses bash syntax to input commands  
+     * Used by IT Team
+     * Documentation of using [Azure CLI](https://learn.microsoft.com/en-us/cli/azure/)
 * Azure Arc: Used to connect to external resources  
   * Examples  
     * SQL servers (relational DB)  
@@ -360,8 +364,6 @@ Monitoring:
     * Set up tests and alerts (testing resource’ responsiveness)  
     * Set up business rules to automatically handle specific issues (sending out an email or running a script)  
     * Automation and machine learning functionality
-
-    
 
 **Azure Monitoring Tools**
 
