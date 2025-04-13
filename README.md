@@ -2,7 +2,7 @@
 
 I'm KrispyNoodles, a passionate developer and lifelong learner! Here's a little about me:
 
-- 🔭 **I’m currently working on**: Building intelligent chatbots and exploring the world of machine learning and artificial intelligence.
+- 🔭 **My recent work is on**: Building intelligent chatbots and exploring the world of machine learning and artificial intelligence.
 - 🌱 **I’m currently learning**: Advanced concepts in AI, cloud computing, and full-stack development.
 - 💬 **Ask me about**: Data science, Python, Git workflows, or anything tech-related—I'm happy to help!
 - 📫 **How to reach me**:  
