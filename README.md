@@ -2,9 +2,9 @@
 
 I'm KrispyNoodles, a passionate developer and lifelong learner! Here's a little about me:
 
-- 🔭 **My recent work is on**: Building intelligent chatbots and exploring the world of machine learning and artificial intelligence.
-- 🌱 **I’m currently learning**: Advanced concepts in AI, cloud computing, and full-stack development.
-- 💬 **Ask me about**: Data science, Python, Git workflows, or anything tech-related—I'm happy to help!
+- 🔭 **My recent work is on**: Using Generative AI to turn wild ideas into reality.
+- 🌱 **I’m currently learning**: Different Agent Architectures, Model Context Protocols (MCP), and Prompt Engineering.
+- 💬 **Ask me about**: Data science, Large Language Models, Vibe Coding, or anything tech-related—I'm happy to help!
 - 📫 **How to reach me**:  
   - Email: [joeylimjunfeng@gmail.com](mailto:joeylimjunfeng@gmail.com)  
   - LinkedIn: [linkedin.com/in/joeylimjf](https://www.linkedin.com/in/joeylimjf/)
@@ -12,8 +12,8 @@ I'm KrispyNoodles, a passionate developer and lifelong learner! Here's a little 
 ---
 
 ### 🌟 Featured Projects:
-- 🛠 **[SIT Chatbot](https://github.com/KrispyNoodles/SIT_Chatbot)**: A chatbot built using Retrieval-Augmented Generation (RAG) that provides information relating to SIT.
-- 📊 **[SMRT Map](https://github.com/KrispyNoodles/SMRT_Neo4j)**: A database created based off graph database that represents the train network of Singapore.
+- 🛠 **[Aurebesh Traanslator](https://github.com/KrispyNoodles/Aurebesh_translator)**: A telegram bot that uses computer vision to detect Aurebesh characters and large language models to accurately translate and correct the output in English.
+- 📊 **[Pokemon Assistant](https://github.com/KrispyNoodles/pokemon_assistant)**: A Pokémon Assistant that identifies the Pokémon & pick the best move against it using Agentic LLMs
 
 ---
 
