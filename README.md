@@ -11,9 +11,10 @@ I'm KrispyNoodles, a passionate developer and lifelong learner! Here's a little 
 - ⚡ **Fun fact**: I thought that KrispyNoodles was a funny name since "Krispy" comes from the donut brand Krispy Kreme, and Crispy Noodles is an actual Hong Kong dish!
 ---
 
-### 🌟 Featured Projects:
-- 🛠 **[Aurebesh Traanslator](https://github.com/KrispyNoodles/Aurebesh_translator)**: A telegram bot that uses computer vision to detect Aurebesh characters and large language models to accurately translate and correct the output in English.
-- 📊 **[Pokemon Assistant](https://github.com/KrispyNoodles/pokemon_assistant)**: A Pokémon Assistant that identifies the Pokémon & pick the best move against it using Agentic LLMs
+### 🌟 Featured Projects
+
+- 🧠 **[Semantic Word OOP](https://github.com/KrispyNoodles/semantic_word_oop)**   A Python object-oriented implementation that enables vector arithmetic on words.
+- 📄 **[Synthetic Q&A Dataset Generator](https://github.com/KrispyNoodles/synthetic-qna-dataset-generator)** A pipeline for extracting text from PDF documents and generating synthetic question–answer datasets using large language models, with configurable prompt styles and extraction methods.
 
 ---
 
